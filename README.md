@@ -1,8 +1,11 @@
 Working on
 ----------------------
-- Flavus
+- none
 
 
 Finished
 ----------------------
 - Quests
+- Loot
+- Drops
+- Flavus
