@@ -1,19 +1,16 @@
-Conspiracy Development
------------------------------
+# Conspiracy Development
 New RPG Minecraft re-imagened style.
 
 
 
 
-Feature Requests
------------------------------
+# Feature Requests
 Please feel free to PM me on Discord or open a thread in the "issues" Tab.
 
 
 
 
-To-do-list
------------------------------
+# To-do-list
 "Projects" Tab 1.0
 - Improve all the quests functions
 - Improve Flavus
