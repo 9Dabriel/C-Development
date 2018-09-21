@@ -14,6 +14,5 @@ Please feel free to PM me on Discord or open a thread in the "issues" Tab.
 "Projects" Tab 1.1
 - Magic wands
 - Magic Crystals
-- Tinkerer
 - Update blacksmith
 - Camps chests
