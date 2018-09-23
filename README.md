@@ -1,18 +1,17 @@
 # Working on
- - Mine system
- - Dungeon Shop
- - Identifying system
- - Identifier
  - Werewolf RPG Items speach
- - Item Dealer
- - Weapons Dealer
- - Armor Merchant
- - Magic wands
  - Magic Crystals
  - Update blacksmith
- - Loot chests
 
 # Finished
+ - Loot chests
+ - Magic wands
+ - Armor Merchant
+ - Weapons Dealer
+ - Item Dealer
+ - Identifying system
+ - Dungeon Shop
+ - Mine system
  - RPG items
  - Trash can
  - Spiritual Pool
