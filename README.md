@@ -1,7 +1,5 @@
 # Working on
- - Werewolf RPG Items speach
- - Magic Crystals
- - Update blacksmith
+ - none
 
 # Finished
  - Loot chests
@@ -16,3 +14,11 @@
  - Trash can
  - Spiritual Pool
  - Tinkerer
+ - Werewolf RPG Items speach
+ - Magic Crystals
+ - Update blacksmith
+ - Extra Bags
+ - Wild Monsters
+ - Update loot x2
+ - New map
+ - Texture pack
